@@ -2,7 +2,7 @@
 import React from 'react'
 import {connect} from 'react-redux'
 
-class AccountsContainer extends React.Component {
+class SearchContainer extends React.Component {
 
 
   render() {
@@ -15,4 +15,4 @@ class AccountsContainer extends React.Component {
 }
 
 
-export default AccountsContainer
+export default SearchContainer
